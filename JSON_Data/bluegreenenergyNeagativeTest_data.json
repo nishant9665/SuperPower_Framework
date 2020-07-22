@@ -1,0 +1,27 @@
+{
+  "CreateEntryflowData": [
+    {
+      "postCode": "CB6 1AS",
+      "electricityUsage": "3100",
+      "gasUsage": "12000",
+      "perMonthPrice":"£91.46",
+      "personalDetails":"Personal details",
+      "firstName": "MACIEJ1",
+      "lastName": "PURSE1",
+      "mobileNumber": "07113213131",
+      "buildingName": "27",
+      "streetName": "CROMWELL ROAD",
+      "cityTown": "Ely",
+      "iboID": "8881212121",
+      "paymentDetails":"Payment details",
+      "bankName": "HSBC",
+      "acctNumber": "31926819",
+      "sortCode": "601613",
+      "typeEmail": "Ashwini.Shah@yash.com",
+      "confirmEmail": "Ashwini.Shah@yash.com",
+      "userNameEmail": "Ashwini.Shah@yash.com",
+      "typePassWord": "Test123!",
+      "retypePassWord": "Test123!XXX"
+    }
+  ]
+}
